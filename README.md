@@ -1,1 +1,1 @@
-# Place to keep notes
+# A home for notes
