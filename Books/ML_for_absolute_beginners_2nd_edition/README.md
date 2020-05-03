@@ -1,8 +1,8 @@
 ### Book by Oliver Theobald
 _A Plain English Introduction_
-- [CH-1 INTRODUCTION](https://github.com/hemantmalik/notes/tree/master/Books/ML_for_absolute_beginners_2nd_edition/Ch-1)
-- CH-2 What is ML
-- CH-3 ML Categories
+- [CH-1 INTRODUCTION](https://github.com/hemantmalik/notes/tree/master/Books/ML_for_absolute_beginners_2nd_edition/CH-1)
+- [CH-2 What is ML](https://github.com/hemantmalik/notes/tree/master/Books/ML_for_absolute_beginners_2nd_edition/CH-2)
+- [CH-3 ML Categories](https://github.com/hemantmalik/notes/tree/master/Books/ML_for_absolute_beginners_2nd_edition/CH-3)
 - CH-4 ML ToolBox
 - CH-5 Data Scrubbing
 - CH-6 Setting up your data

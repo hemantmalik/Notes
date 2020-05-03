@@ -1,0 +1,34 @@
+### ML Categories
+- Several hundred statiscal-based algorithms in ML. Constant challenge for anyone working in this field.
+- 3 Overarching categories in ML " **Supervised ML** | **Unsupervised ML** | **Reinforcement Learning**
+- _**Supervised Machine Learning**
+    - Learning patterns through connecting the relationship between variables and known outcomes. It works with labeled datasets
+    - Sample data with various features (X), and correct output value of data (Y). This is what makes the dataset labeled - known.
+    - Algorithm detects patterns to establish the relationship between the two and creates a model to reproduce.
+        - Example: Market value of a used car. Dataset = previous sold cars with their features/attributes/dimensions - year, make, miles etc. Used to create model.
+- _**Unsupervised Machine Learning**
+    - Not all variables and data patterns are classified
+    - Machine must uncover hidden patterns and create labels
+    - k-means clustering algorithm popular example
+        - example use-case buyers patterns
+    - Helps you enable discover patterns that you dint know existed in the data.
+    - Fraud detection another popular application area - you don't know what next attack pattern someone is going to use so UNKNOWN
+    - [DataVisor - Fraud Detection comapny](https://www.datavisor.com/)
+    - Other examples
+        - sudden large order from an unknown user
+        - sudden surge of user ratings
+        - suspicious shipping address
+- _**Reinforcement Machine Learning**
+    - Most advanced of the three. Continuously improves its model by leveraging feedback from previous iterations.
+    - Continuous learning - outputs are graded, not tagged
+    - Q-Learning as an example
+    - Machine must uncover hidden patterns and create labels
+    - k-means clustering algorithm popular example
+        - example use-case buyers patterns
+    - Helps you enable discover patterns that you dint know existed in the data.
+    - Fraud detection another popular application area - you don't know what next attack pattern someone is going to use so UNKNOWN
+    - [DataVisor - Fraud Detection comapny](https://www.datavisor.com/)
+    - Other examples
+        - sudden large order from an unknown user
+        - sudden surge of user ratings
+        - suspicious shipping address
